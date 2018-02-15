@@ -4,7 +4,7 @@
 # 表題: グラフ作成のためのスクリプト．CSVファイル利用版
 # 	日曜日7日分の毎正時の値をプロットする
 #
-
+#
 require 'csv'
 require 'date'
 require 'fileutils'
